@@ -1,0 +1,69 @@
+cdp\_scrapers package
+=====================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   cdp_scrapers.instances
+
+Submodules
+----------
+
+cdp\_scrapers.legistar\_content\_parsers module
+-----------------------------------------------
+
+.. automodule:: cdp_scrapers.legistar_content_parsers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+cdp\_scrapers.legistar\_utils module
+------------------------------------
+
+.. automodule:: cdp_scrapers.legistar_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+cdp\_scrapers.prime\_gov\_utils module
+--------------------------------------
+
+.. automodule:: cdp_scrapers.prime_gov_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+cdp\_scrapers.scraper\_utils module
+-----------------------------------
+
+.. automodule:: cdp_scrapers.scraper_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+cdp\_scrapers.types module
+--------------------------
+
+.. automodule:: cdp_scrapers.types
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+cdp\_scrapers.youtube\_utils module
+-----------------------------------
+
+.. automodule:: cdp_scrapers.youtube_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: cdp_scrapers
+   :members:
+   :undoc-members:
+   :show-inheritance:
